@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 13, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:**
+- Set up a Landing Page with ConvertKit
+- Started the project with Create React App with Tailwind CSS
+- Read Refactoring UI and studied Gerrit UI for design
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**
+- Using ConvertKit was easier than expected. Especially setting up custom domain was surprisingly painless.
+- Setting up React development environment with TypeScript was a breeze!
+- This tutorial for using Tailwind CSS was super valuable https://blog.logrocket.com/create-react-app-and-tailwindcss/.
+- Designing the UI is likely going to be a PITA for me, but that only means that I'll learn a ton of new stuff! :P
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:**
+- [Landing Page](http://morco.app/)
+- [Github Repo](https://github.com/apkoponen/morco)
