@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 1: April 14, 2020
+
+**Today's Progress:**
+- Set up a Backlog for the project using Trello.
+- Studied Gitlab and Github APIs in order to make sure it is possible to comment on commits.
+- I skimmed https://kentcdodds.com/blog/stop-using-client-side-route-redirects and https://kentcdodds.com/blog/authentication-in-react-applications. Both great articles.
+- Got Gitlab OAuth flow working!
+
+**Thoughts:**
+- I tried using "react-openidconnect" in the beginning, but Github does not support OpenID connect so I had to ditch it in favor of a custom OAuth implementation
+- Setting up the Gitlab authentication flow was maybe a tad harder than I had thought.
+- I probably need to use a day for setting up state management at this point.
+
+**Link to work:**
+- [Backlog](https://trello.com/b/VpDLd95f/morco-backlog/)
+
 ### Day 0: April 13, 2020
 
 **Today's Progress:**
