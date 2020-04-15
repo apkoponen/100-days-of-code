@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 2: April 15, 2020
+
+**Today's Progress:**
+- Did some domain modeling with paper and pen.
+- Added a simple app layout.
+- Refactored the login flow to it's own page.
+
+**Thoughts:**
+- Redirects in the login flow caused some headaches.
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco)
+
 ### Day 1: April 14, 2020
 
 **Today's Progress:**
