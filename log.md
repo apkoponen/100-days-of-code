@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 3: April 16, 2020
+
+**Today's Progress:**
+- Moved state to MobX
+
+**Thoughts:**
+- Ended up still pondering, if I should use MobX or maybe Overmind. Didn't have to courage to go with Overmind.
+- Setting up decorators with TypeScript was surprisingly straight-forward, thanks to good documentation on the MobX site! 
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco)
+
 ### Day 2: April 15, 2020
 
 **Today's Progress:**
