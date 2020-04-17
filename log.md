@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 4: April 7, 2020
+
+**Today's Progress:**
+- Added a page for displaying merge requests in a repository.
+
+**Thoughts:**
+- Progress is slow, but I'm slowly gettin there!
+- Setting up async loading helpers in React is somewhat laborious.
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco)
+
 ### Day 3: April 16, 2020
 
 **Today's Progress:**
