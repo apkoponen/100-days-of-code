@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 4: April 7, 2020
+### Day 5: April 18, 2020
+
+**Today's Progress:**
+- Benchmarked through the PR/MR/Change pages for Github/Gitlab/Gerrit and tried out Reviewable.io.
+- Added a page for displaying an individual change (merge request).
+
+**Thoughts:**
+- The design for the change page is going to be a big challenge.
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco)
+
+### Day 4: April 17, 2020
 
 **Today's Progress:**
 - Added a page for displaying merge requests in a repository.
