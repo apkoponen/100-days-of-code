@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 6: April 19, 2020
+
+**Today's Progress:**
+- Bought, studied, and configured Tailwind UI.
+- Studied Github and Gitlab GraphQL APIs. Decided to stick with REST APIs, because I could not find a way to fetch commits through the Gitlab GraphQL API.
+- Added a commit list to the Change Page.
+
+**Thoughts:**
+- The change page is likely going to be the hardest part of this app in terms of design and functionality.
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco)
+
 ### Day 5: April 18, 2020
 
 **Today's Progress:**
