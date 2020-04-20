@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 7: April 20, 2020
+
+**Today's Progress:**
+- Created a task for interviewing commit-by-commit reviewers.
+- Did a very simple diff page
+
+**Thoughts:**
+- There is constantly new information regarding code reviews that can be distilled in to an awesome UI. It just takes time.
+
+**Link to work:**
+- [Interviewing commit-by-commit reviewers](https://trello.com/c/RN9qSxcc/15-interview-commit-by-commit-reviewers)
+- [Github Repo](https://github.com/apkoponen/morco)
+
 ### Day 6: April 19, 2020
 
 **Today's Progress:**
