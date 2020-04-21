@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: April 21, 2020
+
+**Today's Progress:**
+- Moved to using SWR instead of MobX
+
+**Thoughts:**
+- This refactor was not a "must", but handling caching was going to be a PITA, but necessary. SWR handles many situations "out of the box".
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco)
+
 ### Day 7: April 20, 2020
 
 **Today's Progress:**
