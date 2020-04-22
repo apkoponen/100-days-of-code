@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 9: April 22, 2020
+
+**Today's Progress:**
+- Added a simple diff view to the diff page
+
+**Thoughts:**
+- It's always a PITA when libraries don't have TS typings.
+- The "react-diff-view" library seems to just the thing I was after. Let's see if the performance is good enough.
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco)
+
 ### Day 8: April 21, 2020
 
 **Today's Progress:**
