@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: April 23, 2020
+
+**Today's Progress:**
+- Added styles for diffs and moved to showing only one diff at a time
+
+**Thoughts:**
+- Today was a lazy day, but I stille made progress!
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco)
+
 ### Day 9: April 22, 2020
 
 **Today's Progress:**
