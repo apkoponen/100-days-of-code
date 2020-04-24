@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 11: April 24, 2020
+
+**Today's Progress:**
+- Added shortcuts for moving between files in the diff view
+
+**Thoughts:**
+- Hooks are quite handy for this kind of stuff. I like them more than HOCs.
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco)
+
 ### Day 10: April 23, 2020
 
 **Today's Progress:**
