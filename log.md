@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 12: April 25, 2020
+
+**Today's Progress:**
+- Added a simple navbar for the diff view
+
+**Thoughts:**
+- Building custom components for Tailwind is quite time consuming vs. e.g. using Reactstrap.
+- Tailwind has not yet grown into me, but hopefully it will!
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco)
+
+
 ### Day 11: April 24, 2020
 
 **Today's Progress:**
