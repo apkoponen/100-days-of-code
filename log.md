@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 13: April 26, 2020
+
+**Today's Progress:**
+- I read about Git notes as the review information is going to be stored in there (http://alblue.bandlem.com/2011/11/git-tip-of-week-git-notes.html).
+- Studied isomorphic-git https://isomorphic-git.org/ and comlink https://github.com/GoogleChromeLabs/comlink so that adding notes from the browser will be possible.
+
+**Thoughts:**
+- Git notes are awesome!
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco)
+
 ### Day 12: April 25, 2020
 
 **Today's Progress:**
@@ -11,7 +23,6 @@
 
 **Link to work:**
 - [Github Repo](https://github.com/apkoponen/morco)
-
 
 ### Day 11: April 24, 2020
 
