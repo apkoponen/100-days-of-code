@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: April 27, 2020
+
+**Today's Progress:**
+- Tried to setup isomorphic-git, but got only got so far as to getting the typings working. :/
+
+**Thoughts:**
+- TypeScript typings are sometimes hard to get right.
+
 ### Day 13: April 26, 2020
 
 **Today's Progress:**
