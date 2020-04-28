@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: April 27, 2020
+
+**Today's Progress:**
+- Continued with isomorphic-git. I was able to fetch a single notes branch, but not with a wildcard `refs/notes/morco/*`.
+
+**Thoughts:**
+- Git is hard! :)
+
 ### Day 14: April 27, 2020
 
 **Today's Progress:**
