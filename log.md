@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 15: April 27, 2020
+### Day 16: April 29, 2020
+
+**Today's Progress:**
+- I got GIT notes fetching working for multiple reviewers!
+- I cleaned up the GIT implementation
+
+**Thoughts:**
+- The performance is not as good as I'd like it to be, but it can be improved in the future.
+
+### Day 15: April 28, 2020
 
 **Today's Progress:**
 - Continued with isomorphic-git. I was able to fetch a single notes branch, but not with a wildcard `refs/notes/morco/*`.
