@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 17: April 30, 2020
+
+**Today's Progress:**
+- I set up a proxy for Git requests using https://github.com/isomorphic-git/cors-proxy
+- I worked on the git notes integration
+
+**Thoughts:**
+- The proxy really needs to support HTTP/2. I could not deploy it to Vercel successfully, I'll have to look into Netlify.
+
+
 ### Day 16: April 29, 2020
 
 **Today's Progress:**
