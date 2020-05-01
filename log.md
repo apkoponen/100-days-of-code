@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 18: May 1, 2020
+
+**Today's Progress:**
+- Tried to deploy the proxy to Netlify, with no success.
+
+**Thoughts:**
+- Serverless is hard.
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco-proxy)
+
 ### Day 17: April 30, 2020
 
 **Today's Progress:**
