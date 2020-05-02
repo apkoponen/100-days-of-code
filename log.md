@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 19: May 2, 2020
+
+**Today's Progress:**
+- Deployed morco-proxy to Heroku.
+
+**Thoughts:**
+- I'm starting to wonder, if I should not use git notes for storing the review information. Reasons:
+-- Realtime sync is going to be hard.
+-- Reviewers need write access to the repository, or I'll need a backend with this access.
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/morco-proxy)
+
 ### Day 18: May 1, 2020
 
 **Today's Progress:**
