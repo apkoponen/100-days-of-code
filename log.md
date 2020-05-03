@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 20: May 3, 2020
+
+**Today's Progress:**
+- Create a pull request on using vertical scrolling in "1-pixel-wealth".
+- Did some CompSci exercices.
+
+**Thoughts:**
+- Doing ready-made exercises is super relaxing vs. real-life problems. 
+
+**Link to work:**
+- [PR](https://github.com/MKorostoff/1-pixel-wealth/pull/21)
+
 ### Day 19: May 2, 2020
 
 **Today's Progress:**
