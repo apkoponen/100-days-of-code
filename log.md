@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 21: May 4, 2020
+
+**Today's Progress:**
+- Did some CompSci exercices on Arrays and Hashes.
+
+**Thoughts:**
+- MMM... Me so relaxed!
+
 ### Day 20: May 3, 2020
 
 **Today's Progress:**
