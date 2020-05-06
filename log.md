@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 22: May 4, 2020
+
+### Day 23: May 6, 2020
+
+**Today's Progress:**
+- Continued some CompSci exercices on Greedy algorithms.
+
+**Thoughts:**
+- MMM... Me so greedy!
+
+### Day 22: May 5, 2020
 
 **Today's Progress:**
 - Did some CompSci exercices on Greedy algorithms.
