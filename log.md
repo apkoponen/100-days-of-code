@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 24: May 7, 2020
+
+**Today's Progress:**
+- Continued some CompSci exercices on uniformity and binary search.
+
+**Thoughts:**
+- Super good recapitulation of university maths!
+
 ### Day 23: May 6, 2020
 
 **Today's Progress:**
