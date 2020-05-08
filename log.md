@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 25: May 8, 2020
+
+**Today's Progress:**
+- Continued some CompSci exercices on binary search
+
+**Thoughts:**
+- Logarithmic algorithms might not match common sense, but require the understanding of the underlying math.
+
 ### Day 24: May 7, 2020
 
 **Today's Progress:**
