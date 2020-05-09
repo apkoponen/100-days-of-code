@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+### Day 26: May 9, 2020
+
+**Today's Progress:**
+- Continued CompSci exercices on binary search
+
 ### Day 25: May 8, 2020
 
 **Today's Progress:**
