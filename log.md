@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 27: May 10, 2020
+
+**Today's Progress:**
+- Did CompSci exercices on binary search trees
 
 ### Day 26: May 9, 2020
 
