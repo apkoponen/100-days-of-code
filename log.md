@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 29: May 12, 2020
+
+**Today's Progress:**
+- Did CompSci exercices on graphs
+
 ### Day 28: May 11, 2020
 
 **Today's Progress:**
