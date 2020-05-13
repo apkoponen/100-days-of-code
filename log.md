@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 30: May 12, 2020
+
+**Today's Progress:**
+- Did CompSci exercices on memoization
+
 ### Day 29: May 12, 2020
 
 **Today's Progress:**
