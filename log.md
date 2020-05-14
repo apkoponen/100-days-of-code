@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 30: May 12, 2020
+### Day 31: May 14, 2020
+
+**Today's Progress:**
+- Setup a Next.js dev environment for my resume.
+
+**Thoughts:**
+- Gosh setting up these dev environments is always a PITA.
+
+### Day 30: May 13, 2020
 
 **Today's Progress:**
 - Did CompSci exercices on memoization
