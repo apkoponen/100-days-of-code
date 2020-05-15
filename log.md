@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 32: May 15, 2020
+
+**Today's Progress:**
+- Learned Tailwind and created a first draft on an dev.to article.
+
+**Thoughts:**
+- Blogging is fun!
+
 ### Day 31: May 14, 2020
 
 **Today's Progress:**
