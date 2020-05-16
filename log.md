@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 33: May 16, 2020
+
+**Today's Progress:**
+- Published dev.to article.
+
+**Link to work:**
+- [Article](https://dev.to/apkoponen/how-to-create-a-buttongroup-component-with-react-and-tailwind-css-1obo
+)
+
 ### Day 32: May 15, 2020
 
 **Today's Progress:**
