@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 34: May 17, 2020
+
+**Today's Progress:**
+- Started designing a landing age with Tailwind CSS.
+
 ### Day 33: May 16, 2020
 
 **Today's Progress:**
