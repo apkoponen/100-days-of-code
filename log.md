@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Days 34-40: May 18-23, 2020
+
+**Today's Progress:**
+- Built a landing page with Tailwind CSS & Tailwind UI.
+
 ### Day 34: May 17, 2020
 
 **Today's Progress:**
