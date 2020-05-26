@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 43: May 26, 2020
+
+**Today's Progress:**
+- Realized, that I had to use the discussions API for the comments to show properly in the merge request.
+- The discussions API for the commit throws a 404 for some reason. Need to investigate tomorrow.
+
+### Day 42: May 25, 2020
+
+**Today's Progress:**
+- Got first comments from Morco to Gitlab.
+
+### Day 41: May 24, 2020
+
+**Today's Progress:**
+- Updated the landing page
+
 ### Days 34-40: May 18-23, 2020
 
 **Today's Progress:**
