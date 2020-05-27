@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 44: May 27, 2020
+
+**Today's Progress:**
+- Ditched Gitlab in favor of implementing Github first.
+- Implemented Github login using Auth0
+
 ### Day 43: May 26, 2020
 
 **Today's Progress:**
