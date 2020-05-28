@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 45: May 28, 2020
+
+**Today's Progress:**
+- Ended up ditching Auth0 because fetching Github access token through 
+  them was as complicated as just implementing Github flow directly.
+
+
 ### Day 44: May 27, 2020
 
 **Today's Progress:**
