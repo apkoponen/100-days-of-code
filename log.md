@@ -1,11 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 46: May 29, 2020
+
+**Today's Progress:**
+- I got annoyed by often going late into Google Meet meetings (because being focused on coding, etc.), 
+  so I started building a chrome extension that opens up meetings from Google Calendar automatically.
+
 ### Day 45: May 28, 2020
 
 **Today's Progress:**
 - Ended up ditching Auth0 because fetching Github access token through 
   them was as complicated as just implementing Github flow directly.
-
 
 ### Day 44: May 27, 2020
 
