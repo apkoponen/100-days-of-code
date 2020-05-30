@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 47: May 29, 2020
+
+**Today's Progress:**
+- Built an accessible Tailwind CSS React component. Was a ton of fun!
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/tailwind-accessible-react-demo)
+
 ### Day 46: May 29, 2020
 
 **Today's Progress:**
