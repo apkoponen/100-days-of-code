@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 47: May 29, 2020
+### Day 48: May 31, 2020
+
+**Today's Progress:**
+- Started working on basekick plugin for tailwind.
+
+### Day 47: May 30, 2020
 
 **Today's Progress:**
 - Built an accessible Tailwind CSS React component. Was a ton of fun!
