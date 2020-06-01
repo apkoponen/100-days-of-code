@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 49: June 1, 2020
+
+**Today's Progress:**
+- Continued work on basekick plugin for tailwind.
+
 ### Day 48: May 31, 2020
 
 **Today's Progress:**
