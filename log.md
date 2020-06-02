@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 50: June 1, 2020
+
+**Today's Progress:**
+- Tailwind CSS basekick plugin now works with both multiplier (e.g. line-height: 1.5) and rem (e.g. line-height:1.5rem) values! 
+
 ### Day 49: June 1, 2020
 
 **Today's Progress:**
