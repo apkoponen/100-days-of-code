@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 50: June 1, 2020
+### Day 51: June 3, 2020
+
+**Today's Progress:**
+- Added a few fonts for debugging Tailwind CSS basekick.
+
+### Day 50: June 2, 2020
 
 **Today's Progress:**
 - Tailwind CSS basekick plugin now works with both multiplier (e.g. line-height: 1.5) and rem (e.g. line-height:1.5rem) values! 
