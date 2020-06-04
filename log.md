@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 52: June 4, 2020
+
+**Today's Progress:**
+- Studied how I to publish Tailwind CSS basekick to NPM.
+
 ### Day 51: June 3, 2020
 
 **Today's Progress:**
