@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 53: June 5, 2020
+
+**Today's Progress:**
+- Made a JS only version of the accessible Tailwind CSS React component.
+- Ironed out some bugs from tailwind-basekick and renamed it to tailwind-baseline
+
+**Link to work:**
+- [Github Repo](https://github.com/apkoponen/tailwind-accessible-react-demo)
+
 ### Day 52: June 4, 2020
 
 **Today's Progress:**
