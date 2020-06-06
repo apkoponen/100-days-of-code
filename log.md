@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 54: June 5, 2020
+
+**Today's Progress:**
+- Spent time trying to figure out, why Inter was not aligning properly. Eventually found the correct values!
+
 ### Day 53: June 5, 2020
 
 **Today's Progress:**
