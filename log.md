@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 55: June 6, 2020
+
+**Today's Progress:**
+- Spent time trying to setup a proper NPM package for tailwind-baseline with nod yo generator.
+- Eventually ended up not using the generator, and just cloning the repo.
+
 ### Day 54: June 5, 2020
 
 **Today's Progress:**
