@@ -1,12 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 55: June 6, 2020
+### Day 57: June 9, 2020
+
+**Today's Progress:**
+- Updated tailwind-baseline README.
+- Started working on a example site demoing baseline alignment.
+
+### Day 56: June 8, 2020
+
+**Today's Progress:**
+- Published first version of tailwind-baseline to NPM!
+
+**Link to work:**
+- [NPM](https://www.npmjs.com/package/tailwind-baseline)
+
+### Day 55: June 7, 2020
 
 **Today's Progress:**
 - Spent time trying to setup a proper NPM package for tailwind-baseline with nod yo generator.
 - Eventually ended up not using the generator, and just cloning the repo.
 
-### Day 54: June 5, 2020
+### Day 54: June 6, 2020
 
 **Today's Progress:**
 - Spent time trying to figure out, why Inter was not aligning properly. Eventually found the correct values!
