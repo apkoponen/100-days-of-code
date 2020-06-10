@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 58: June 10, 2020
+
+**Today's Progress:**
+- Was tired, so started building a simple "Auto Open Meeting" Electron app just for fun.
+
 ### Day 57: June 9, 2020
 
 **Today's Progress:**
