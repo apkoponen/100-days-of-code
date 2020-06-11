@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 59: June 11, 2020
+
+**Today's Progress:**
+- Designed how I could get around Google's OAuth limitations on Electron apps.
+
 ### Day 58: June 10, 2020
 
 **Today's Progress:**
