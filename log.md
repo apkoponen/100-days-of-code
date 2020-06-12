@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+
+### Day 60: June 12, 2020
+
+**Today's Progress:**
+- Started building an AWS AppSync API for transferring tokens from browser to Electron.
+
 ### Day 59: June 11, 2020
 
 **Today's Progress:**
