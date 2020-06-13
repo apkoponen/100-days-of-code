@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+### Day 61: June 13, 2020
+
+**Today's Progress:**
+- Got the AWS AppSync API for transferring tokens working.
+
 ### Day 60: June 12, 2020
 
 **Today's Progress:**
