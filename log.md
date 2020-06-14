@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+### Day 62: June 14, 2020
+
+**Today's Progress:**
+- Refactored the API to Express-like route-helper, where you can chain methods. Spent most of the time setting up TypeScript types. 😅
+
 ### Day 61: June 13, 2020
 
 **Today's Progress:**
