@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 65: June 17, 2020
+
+**Today's Progress:**
+- Built a landing page for "Auto Meeting".
+
+### Day 63-64: June 15-16, 2020
+
+**Today's Progress:**
+- Built authentication endpoints for "Auto Meeting" Google auth.
 
 ### Day 62: June 14, 2020
 
