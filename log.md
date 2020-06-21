@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 66-70: June 18-21, 2020
+
+**Today's Progress:**
+- Improved the authentication endpoints for "Auto Meeting" Google auth and got the flow working from the Electron app. 
+
 ### Day 65: June 17, 2020
 
 **Today's Progress:**
