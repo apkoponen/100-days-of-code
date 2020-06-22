@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 71: June 22, 2020 
+
+**Today's Progress:**
+- Implemented event fetching and meeting link checking for "Auto Meeting". 
+
 ### Day 66-70: June 18-21, 2020
 
 **Today's Progress:**
