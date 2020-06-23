@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 72: June 22, 2020 
+
+**Today's Progress:**
+- Added tests for the event related parsing in "Auto Meeting".
+
 ### Day 71: June 22, 2020 
 
 **Today's Progress:**
