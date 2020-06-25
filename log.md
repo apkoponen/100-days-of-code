@@ -1,16 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 72: June 22, 2020 
+### Day 73: June 25, 2020 
+
+**Today's Progress:**
+- Was tired, did some stack related CompSci exercises.
+
+### Day 72: June 24, 2020 
+
+**Today's Progress:**
+- Started working on the front end for "Auto Meeting".
+
+### Day 71: June 23, 2020 
 
 **Today's Progress:**
 - Added tests for the event related parsing in "Auto Meeting".
 
-### Day 71: June 22, 2020 
+### Day 70: June 22, 2020 
 
 **Today's Progress:**
 - Implemented event fetching and meeting link checking for "Auto Meeting". 
 
-### Day 66-70: June 18-21, 2020
+### Day 66-69: June 18-21, 2020
 
 **Today's Progress:**
 - Improved the authentication endpoints for "Auto Meeting" Google auth and got the flow working from the Electron app. 
