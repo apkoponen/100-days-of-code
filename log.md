@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 74: June 26, 2020 
+
+**Today's Progress:**
+- Continue on buildin the UI part for "Auto Meeting".
+
 ### Day 73: June 25, 2020 
 
 **Today's Progress:**
