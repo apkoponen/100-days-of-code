@@ -1,9 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 76: June 28, 2020 
+
+**Today's Progress:**
+- Continued building the UI part for "Auto Meeting". Got the auth window working.
+
+### Day 75: June 27, 2020 
+
+**Today's Progress:**
+- Was traveling, did CompSci exercises on mobile.
+
 ### Day 74: June 26, 2020 
 
 **Today's Progress:**
-- Continue on buildin the UI part for "Auto Meeting".
+- Continued building the UI part for "Auto Meeting".
 
 ### Day 73: June 25, 2020 
 
