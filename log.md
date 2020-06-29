@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 77: June 29, 2020 
+
+**Today's Progress:**
+- Started refactoring "Auto Meeting" to an event based architecture.
+
+**Thoughts:**
+- Building desktop apps is quite different from web apps. In the beginning, async-await based architecture where all
+async events are waited feels nice, but later is becomes quite a PITA, as handling different kinds of events in different
+times becomes hard.
+
 ### Day 76: June 28, 2020 
 
 **Today's Progress:**
