@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 79: July 1, 2020 
+
+**Today's Progress:**
+- Finished reauthorization window.
+
+### Day 78: June 30, 2020 
+
+**Today's Progress:**
+- Finished refactoring "Auto Meeting" to an event based architecture.
+- Started work on "Auto Meeting" reauthorization window.
+
 ### Day 77: June 29, 2020 
 
 **Today's Progress:**
