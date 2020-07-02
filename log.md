@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 80: July 2, 2020 
+
+**Today's Progress:**
+- Worked on the Google Consent Screen and related Privacy Policy for Auto Meeting.
+
 ### Day 79: July 1, 2020 
 
 **Today's Progress:**
