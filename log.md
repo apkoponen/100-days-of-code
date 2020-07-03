@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 81: July 3, 2020 
+
+**Today's Progress:**
+- Sent the Google Consent Screen for verification.
+- Designed what I'm going to do next.
+
 ### Day 80: July 2, 2020 
 
 **Today's Progress:**
