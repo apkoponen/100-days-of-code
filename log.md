@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 82: July 4, 2020 
+
+**Today's Progress:**
+- Refactored "Auto Meeting", but could not finish as Google capped my requests when I tried to debug a bug.
+
 ### Day 81: July 3, 2020 
 
 **Today's Progress:**
