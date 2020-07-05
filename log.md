@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 83: July 4, 2020 
+
+**Today's Progress:**
+- Finished refactoring "Auto Meeting" HTTP requests to repositories. Found a nasty bug, which I had to debug for quite 
+a while.
+
+**Thoughts:**
+- It is easy to slide from best practices while doing side projects. It is a great reminder for why I do all the "basic
+stuff" all day long that takes time. It pays off.
+
 ### Day 82: July 4, 2020 
 
 **Today's Progress:**
