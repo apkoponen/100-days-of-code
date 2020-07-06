@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 83: July 4, 2020 
+### Day 84: July 6, 2020 
+
+**Today's Progress:**
+- Started writing tests for the main process in "Auto Meeting".
+
+### Day 83: July 5, 2020 
 
 **Today's Progress:**
 - Finished refactoring "Auto Meeting" HTTP requests to repositories. Found a nasty bug, which I had to debug for quite 
