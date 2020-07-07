@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 85: July 7, 2020 
+
+**Today's Progress:**
+- Wrote first tests for the main process in "Auto Meeting".
+
 ### Day 84: July 6, 2020 
 
 **Today's Progress:**
