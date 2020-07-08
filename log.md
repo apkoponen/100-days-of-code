@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 86: July 8, 2020 
+
+**Today's Progress:**
+- Added UI for showing calendars and upcoming meetings for "Auto Meeting".
+
 ### Day 85: July 7, 2020 
 
 **Today's Progress:**
