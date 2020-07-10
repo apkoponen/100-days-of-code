@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 88: July 1, 2020 
+
+**Today's Progress:**
+- Sent the  Google Consent Screen verification video to Google.
+- Looked into Capsize and added a small [PR for adding a LICENSE file](https://github.com/seek-oss/capsize/pull/10)
+
+### Day 87: July 9, 2020 
+
+**Today's Progress:**
+- Updated "Auto Meeting" so that I could record a video for Google Consent Screen verification.
+
 ### Day 86: July 8, 2020 
 
 **Today's Progress:**
