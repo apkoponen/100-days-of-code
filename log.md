@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 88: July 1, 2020 
+### Day 89: July 11, 2020 
+
+**Today's Progress:**
+- Started creating a site for tailwind-baseline.
+
+### Day 88: July 10, 2020 
 
 **Today's Progress:**
 - Sent the  Google Consent Screen verification video to Google.
