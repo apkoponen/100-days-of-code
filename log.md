@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 89: July 12, 2020 
+
+**Today's Progress:**
+- Continued work on the site for tailwind-baseline.
+
 ### Day 89: July 11, 2020 
 
 **Today's Progress:**
