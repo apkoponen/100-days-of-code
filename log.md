@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 97: July 19, 2020 
+
+**Today's Progress:**
+- Did typings for `tailwindcss/plugin`.
+
+### Day 96: July 18, 2020 
+
+**Today's Progress:**
+- Starte refactoring tailwind-baseline to TypeScript.
+
+### Day 94-95: July 16-17, 2020 
+
+**Today's Progress:**
+- Published the site for tailwind-baseline.
+- Still waiting for the js.org PR to go through https://github.com/js-org/js.org/pull/4349.
+
 ### Day 90-93: July 12-15, 2020 
 
 **Today's Progress:**
